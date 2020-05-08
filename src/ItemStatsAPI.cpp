@@ -1,4 +1,6 @@
-#include <bits/stdc++.h> 
+#include<iostream>
+#include<string>
+#include<list> 
 #include <JavaScriptCore/JavaScript.h>
 #include "utilityFunctions.cpp"
 #include "ItemStatsGenerator.cpp"

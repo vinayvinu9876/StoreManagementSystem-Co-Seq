@@ -1,4 +1,7 @@
-#include<bits/stdc++.h> 
+#include<iostream>
+#include<string>
+#include<list>
+#include<sstream>
 #include <iostream>
 #include <chrono>
 #include <ctime> 

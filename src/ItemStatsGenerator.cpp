@@ -1,4 +1,7 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<string>
+#include<list>
+#include<map>
 #include <stdexcept> 
 #include "FileManager.cpp"
 #include "ItemManager.cpp"

@@ -1,4 +1,6 @@
-#include<bits/stdc++.h> 
+#include<iostream>
+#include<string>
+#include<list>
 #include "FileManager.cpp"
 #include "utilityFunctions.cpp"
 #pragma once

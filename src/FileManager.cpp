@@ -1,4 +1,7 @@
-#include<bits/stdc++.h> 
+#include<iostream>
+#include<string>
+#include<list>
+#include<fstream>
 #pragma once
 
 using namespace std;
